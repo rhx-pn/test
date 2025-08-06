@@ -12,5 +12,7 @@ Regarded as a part of both the social sciences and humanities, sociology uses va
 - References
   - Citations
   - Sources
+More on Sociology: [On Wikipedia](https://en.wikipedia.org/wiki/Sociology)
+![Visualisation of complex social relationships](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/1920px-Social_Network_Diagram_%28segment%29.svg.png)
 
 [^1]: https://www.dictionary.com/browse/sociology
