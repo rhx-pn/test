@@ -7,5 +7,10 @@ Regarded as a part of both the social sciences and humanities, sociology uses va
 - History
 - Theoretical traditions
 - Central theoretical problems
+- Research methodology problems
+- Subfields
+- References
+  - Citations
+  - Sources
 
 [^1]: https://www.dictionary.com/browse/sociology
